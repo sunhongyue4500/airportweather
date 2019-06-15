@@ -1,0 +1,13 @@
+{
+  "mongodb": {
+    "ip": "127.0.0.1",
+    "port": 27017
+  },
+  "rabbitmq": {
+    "host": "192.168.32.2",
+    "port": 5672,
+    "loginuser": "jiang",
+    "loginpwd": "jiang"
+  },
+  "FetchURL": "http://106.37.211.227:80/Page/Default/QIXIANG_SmallHandler.ashx"
+}
